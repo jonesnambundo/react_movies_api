@@ -4,7 +4,7 @@ export function Footer() {
     return(
         <FooterStyle>
             <p>
-                Projecto Desenvolvido por : Coti Informática.
+                Projecto Desenvolvido por : Jones Márcio.
             </p>
         </FooterStyle>
     )
